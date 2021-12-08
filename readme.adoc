@@ -12,7 +12,10 @@ Example of including a tagged section of code in the repository.
 include::pom.xml[tags=test-dependency]
 ----
 
+[TIP]
+====
 For a complete listing see the xref:pom.xml[pom file].
+====
 
 Inline inclusion of a code block.
 
