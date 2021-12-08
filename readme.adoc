@@ -1,3 +1,3 @@
 = AsciiDoc exploration
 
-A personal AsciiDoc exploration project.
+A personal https://asciidoctor.org/[AsciiDoc] exploration project.
